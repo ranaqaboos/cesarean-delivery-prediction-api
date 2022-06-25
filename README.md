@@ -1,25 +1,23 @@
-# Cesarean Delivery Prediction-API
+# RQ-API
 ## Features
 
-1.Create account
+- login
 
-2.Update account
+- logout
 
-3.Delete account
+- course
 
-4.logout
+- feedback
 
-5.Create perdiction
+- reservation course
 
-6.Get perdiction
+- reservation teacher
 
-7.Delete perdiction
+- favorite course
 
-8-Create note
+- payment
 
-9-Delete note
-
-10-Update note
+- view course
 
 
 ## Stack
@@ -34,7 +32,8 @@ ORM: `mongoos`
 DB: `mongo`
 
 ## schema 
-<img width="671" alt="schema-perdiction" src="https://user-images.githubusercontent.com/106505615/174744692-68b2a2b0-8e5b-4963-a98f-22c43a1e50d1.png">
+
+<img width="478" alt="schema-RQ1" src="https://user-images.githubusercontent.com/106505615/175789949-8ef9eebd-b151-4e13-ad6b-461be8bd61a7.png">
 
 
 
