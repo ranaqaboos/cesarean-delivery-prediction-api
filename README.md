@@ -1,4 +1,7 @@
 # RQ-API
+An electronic educational for kinds platform concerned with providing academic study materials
+
+-Learn while you are at home at the lowest prices-
 ## Features
 
 - login
